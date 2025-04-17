@@ -22,7 +22,7 @@ Follow these steps to run the Story Teller application on your local system:
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone [<repository_url>](https://github.com/shariqhameedca/Story-Teller)
+    git clone https://github.com/shariqhameedca/Story-Teller.git
     cd Story-Teller
     ```
 
@@ -42,6 +42,7 @@ Follow these steps to run the Story Teller application on your local system:
 4.  **Set up environment variables:**
     Create a `.env` file in the root directory of the project and add these API keys:
 
+    ```bash
     AWS_ACCESS_KEY_ID
     AWS_SECRET_ACCESS_KEY
     AWS_DEFAULT_REGION
