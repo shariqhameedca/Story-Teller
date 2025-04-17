@@ -73,5 +73,3 @@ Follow these steps to run the Story Teller application on your local system:
 ## Contributing
 
 Contributions to this project are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
-
-## License
