@@ -69,20 +69,6 @@ Follow these steps to run the Story Teller application on your local system:
 
 2.  **View Caption and Story:** Once the image is uploaded, the AI will process it. The generated image caption and the story based on that caption will be displayed in the chat-like interface.
 
-## Project Structure
-
-StoryTeller/
-├── pycache/
-├── src/
-│   ├── pycache/
-│   ├── ImageToText.py
-│   ├── StoryGenerator.py
-│   └── StoryTeller.py
-├── .env
-├── app.py
-├── config.py
-└── requirements.txt
-└── README.md
 
 ## Contributing
 
